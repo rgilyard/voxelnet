@@ -1,0 +1,6 @@
+python>=3.5
+Tensorflow==1.4.1
+opencv
+shapely
+numba
+easydict
